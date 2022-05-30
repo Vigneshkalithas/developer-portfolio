@@ -21,12 +21,12 @@
 		"graphql": "^15.5.1",
 		"headroom.js": "^0.12.0",
 		"moment": "^2.29.1",
-		"next": "11.1.2",
+		"next": "^11.1.2",
 		"nouislider": "^15.2.0",
 		"prop-types": "^15.7.2",
-		"react": "17.0.2",
+		"react": "^17.0.2",
 		"react-datetime": "^3.0.4",
-		"react-dom": "17.0.2",
+		"react-dom": "^17.0.2",
 		"react-easy-emoji": "^1.5.0",
 		"react-headroom": "^3.1.1",
 		"react-lottie": "^1.2.3",
@@ -38,6 +38,7 @@
 	},
 	"devDependencies": {
 		"eslint": "7.32.0",
-		"eslint-config-next": "11.1.2"
+		"eslint-config-next": "11.1.2",
+		"start-server-and-test": "^1.14.0"
 	}
 }
