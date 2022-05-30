@@ -16,11 +16,11 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/1hanzla100/",
+	facebook: "https://www.facebook.com/vigneshk",
+	instagram: "https://www.instagram.com/vignesh_kalithas",
+	twitter: "https://twitter.com/vigneshmaathev",
+	github: "https://github.com/Vigneshkalithas",
+	linkedin: "https://www.linkedin.com/in/vignesh-kalithas-5511b4227/",
 };
 
 export const skillsSection = {
