@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
+    <img src="https://github.com/Vigneshkalithas/developer-portfolio/blob/master/picture.PNG"></img>
   </kbd>
 </p>
 
@@ -13,7 +13,7 @@
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/1hanzla100/developer-portfolio/issues).
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/Vigneshkalithas/developer-portfolio/issues).
 
 If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/Vigneshkalithas/developer-portfolio/pulls).
 
@@ -113,9 +113,9 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 👤 **Vignesh Kalithas**
 
 -   Website: https://hanzla.netlify.app
--   Twitter: [@1hanzla100](https://twitter.com/vigneshmaathev)
--   Github: [@1hanzla100](https://github.com/Vigneshkalithas)
--   LinkedIn: [@1hanzla100](https://www.linkedin.com/in/vignesh-kalithas-5511b4227/)
+-   Twitter: [vigneshmaathev](https://twitter.com/vigneshmaathev)
+-   Github: [Vigneshkalithas](https://github.com/Vigneshkalithas)
+-   LinkedIn: [Vignesh kalithas](https://www.linkedin.com/in/vignesh-kalithas-5511b4227/)
 
 ## Show your support
 
