@@ -18,12 +18,10 @@ But if you want to **contribute** and make this much better for other developer 
 If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/Vigneshkalithas/developer-portfolio/pulls).
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Sections](#sections)
 - [Getting Started](#getting-started)
 - [How To Use](#how-to-use)
 - [Linking Portfolio to Github](#linking-portfolio-to-github)
-    - [Using Emojis](#using-emojis)
 - [Technologies Used](#technologies-used)
 - [Illustrations](#illustrations)
 - [For the Future](#for-the-future)
