@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
 	resumeLink:
-		"https://drive.google.com/file/d/1Jj4QvvMMhRZQrxngrvlhmuTLhgcisaAp/view?usp=sharing",
+		"https://drive.google.com/file/d/1nOrnvexsJk4bcvHb4Y9X5YvDTMEhg72n/view?usp=sharing",
 };
 
 export const openSource = {
@@ -267,7 +267,7 @@ export const projects = [
 		name: "Developer-Portfolio",
 		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
 		github: "https://github.com/Vigneshkalithas/developer-portfolio",
-		link: "https://developer-portfolio-1hanzla100.vercel.app/",
+		link: "https://developer-portfolio-713jkaxuh-vigneshkalithas.vercel.app/",
 	},
 ];
 
