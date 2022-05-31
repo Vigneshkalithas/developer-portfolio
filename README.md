@@ -112,7 +112,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 👤 **Vignesh Kalithas**
 
--   Website: https://hanzla.netlify.app
+-   Website: https://vignesh-kalithas-portfolio.netlify.app/
 -   Twitter: [vigneshmaathev](https://twitter.com/vigneshmaathev)
 -   Github: [Vigneshkalithas](https://github.com/Vigneshkalithas)
 -   LinkedIn: [Vignesh kalithas](https://www.linkedin.com/in/vignesh-kalithas-5511b4227/)
