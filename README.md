@@ -18,9 +18,6 @@ But if you want to **contribute** and make this much better for other developer 
 If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/Vigneshkalithas/developer-portfolio/pulls).
 
 ## Table of Contents
-
-- [Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.](#software-developer-portfolio-template-built-with-nextjs-bootstrap-that-helps-you-showcase-your-work-and-skills-as-a-software-developer)
-  - [To view a live example, **click here**.](#to-view-a-live-example-click-here)
 - [Table of Contents](#table-of-contents)
 - [Sections](#sections)
 - [Getting Started](#getting-started)
