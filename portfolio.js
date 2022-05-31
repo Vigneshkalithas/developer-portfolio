@@ -202,10 +202,10 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "Anna University",
+		subHeader: "Bechelor of Electronics And Communication",
+		duration: "Augest 2017 - April 2021",
+		desc: "Completed Full stack devlopement course in IIT Madras.",
 		descBullets: [
 			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -266,7 +266,7 @@ export const projects = [
 	{
 		name: "Developer-Portfolio",
 		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/1hanzla100/developer-portfolio",
+		github: "https://github.com/Vigneshkalithas/developer-portfolio",
 		link: "https://developer-portfolio-1hanzla100.vercel.app/",
 	},
 ];
