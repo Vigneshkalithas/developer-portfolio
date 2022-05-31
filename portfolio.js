@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
 	resumeLink:
-		"https://drive.google.com/file/d/1nOrnvexsJk4bcvHb4Y9X5YvDTMEhg72n/view?usp=sharing",
+		"https://drive.google.com/file/d/1ot5ovARUO4V-72eu0ofgDE79LfLJKpPb/view?usp=sharing",
 };
 
 export const openSource = {
