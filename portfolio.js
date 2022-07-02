@@ -16,7 +16,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/vigneshk",
+	// facebook: "https://www.facebook.com/vigneshk",
 	instagram: "https://www.instagram.com/vignesh_kalithas",
 	twitter: "https://twitter.com/vigneshmaathev",
 	github: "https://github.com/Vigneshkalithas",
@@ -213,55 +213,55 @@ export const educationInfo = [
 	},
 ];
 
-export const experience = [
-	{
-		role: "API Engineer",
-		company: "Duseca Software",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
-		date: "Jan 2022 – Mar 2022",
-		desc: "I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.",
-		// descBullets: [
-		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-		// 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		// ],
-	},
-	{
-		role: "Full Stack Developer",
-		company: "Bleed-AI",
-		companylogo: "/img/icons/common/bleedAI.jpg",
-		date: "Sept 2021 - Oct 2021",
-		desc: "Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.",
-	},
-	{
-		role: "Backend Developer",
-		company: "Wapidu",
-		companylogo: "/img/icons/common/wapidu.jpg",
-		date: "Sept 2021",
-		desc: "Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.",
-	},
-];
+// export const experience = [
+// 	{
+// 		role: "API Engineer",
+// 		company: "Duseca Software",
+// 		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+// 		date: "Jan 2022 – Mar 2022",
+// 		desc: "I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.",
+// 		// descBullets: [
+// 		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
+// 		// 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+// 		// ],
+// 	},
+// 	{
+// 		role: "Full Stack Developer",
+// 		company: "Bleed-AI",
+// 		companylogo: "/img/icons/common/bleedAI.jpg",
+// 		date: "Sept 2021 - Oct 2021",
+// 		desc: "Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.",
+// 	},
+// 	{
+// 		role: "Backend Developer",
+// 		company: "Wapidu",
+// 		companylogo: "/img/icons/common/wapidu.jpg",
+// 		date: "Sept 2021",
+// 		desc: "Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.",
+// 	},
+// ];
 
 export const projects = [
 	{
-		name: "AtlasMart",
-		desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
-		link: "https://atlasmart.netlify.app/",
+		name: "Weather App",
+		desc: "This is weather app used to detect 3days weathyer condition.",
+		link: "https://darling-malasada-9b744b.netlify.app/",
 	},
 	{
-		name: "Technota (Forum)",
-		desc: "Get hands-on experience in technical skills with Technota",
-		link: "https://technota.netlify.app/",
+		name: "Dashboard",
+		desc: "Dashboard is a web application which is used to monito`r and manage your projects.",
+		link: "https://bright-sunshine-ca19be.netlify.app/",
 	},
 	{
-		name: "Shopaza (Ecommerce)",
-		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		link: "https://shopaza.herokuapp.com/",
+		name: "Add to Card (Ecommerce)",
+		desc: "A simple add to card app developed by Reactjs",
+		link: "https://bespoke-monstera-d162d0.netlify.app/",
 	},
 	{
-		name: "MMFmelody (Blog)",
-		desc: "Here you will find amazing tips about health, beauty, and modern-day life.",
+		name: "Zion (Blog)",
+		desc: "This is my own blog for web development content.",
 		// github: "https://github.com/1hanzla100",
-		link: "https://mmfmelody.herokuapp.com/",
+		link: "https://stellular-crostata-a6e092.netlify.app/",
 	},
 	{
 		name: "Developer-Portfolio",
